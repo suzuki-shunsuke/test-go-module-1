@@ -1,4 +1,4 @@
-module github.com/suzuki-shunsuke/test-go-module-1
+module github.com/suzuki-shunsuke/test-go-module-1/v2
 
 go 1.13
 
