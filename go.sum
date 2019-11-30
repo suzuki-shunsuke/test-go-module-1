@@ -1,4 +1,2 @@
-github.com/suzuki-shunsuke/test-go-module-1 v1.0.0 h1:TR15dOEZXFi0e2HsPsHzGMjW7ZWRo6xJYP2wmnfjtP8=
-github.com/suzuki-shunsuke/test-go-module-1 v1.0.0/go.mod h1:fpKPLiwBjL8xm8UfmSaRA/Bu3F+nMbnEJFyQyPG6xeE=
-github.com/suzuki-shunsuke/test-go-module-2 v1.0.1 h1:cpvNGOUoXriw6I7070kY2J8xb6aG3O5fWsWHlEn8OPk=
-github.com/suzuki-shunsuke/test-go-module-2 v1.0.1/go.mod h1:q6axH+K9X60K39nHOFVIVA0vsKbd873We8N7/gtxjCY=
+github.com/suzuki-shunsuke/test-go-module-2 v1.0.2 h1:VvPS+aFduehryVvIBc92V68kbQtORanzWzzozRVyh4k=
+github.com/suzuki-shunsuke/test-go-module-2 v1.0.2/go.mod h1:SnGhR2JepLfkP3He0a+ZPJMevMzmKNgj+XhdmmKadc8=
